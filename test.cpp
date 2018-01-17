@@ -2,8 +2,9 @@
 
 using namespace std;
 
-int main(void) {
-
+int main(void)
+{
+	testing
 	cout << "Hello World!" << endl;
 
 	return 0;
